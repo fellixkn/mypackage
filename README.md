@@ -1,0 +1,1 @@
+This package is from an example in Data science course at Explore AI Academy on how to create a package
